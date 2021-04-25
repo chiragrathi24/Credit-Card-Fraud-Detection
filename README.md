@@ -1,2 +1,2 @@
 # Credit-Card-Fraud-Detection 📊
-This is to detect the genuine and the fraud transactions of the Credit Card.
+This is to detect the genuine and the fraud transactions.
