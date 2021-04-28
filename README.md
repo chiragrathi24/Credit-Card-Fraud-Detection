@@ -1,2 +1,2 @@
 # Credit-Card-Fraud-Detection 📊
-This is to detect the genuine and fraud transactions using Machine Learning.
+This is to detect the genuine and fraud transactions using the various Machine Learning algorithms.
